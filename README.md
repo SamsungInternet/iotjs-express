@@ -105,3 +105,4 @@ Demo also shows following systems:
 * https://en.wikipedia.org/wiki/Representational_state_transfer
 * https://github.com/rzr/webthing-iotjs/wiki
 * https://libraries.io/npm/iotjs-express
+* https://github.com/pando-project/iotjs-modules/pull/16# (Merged)
